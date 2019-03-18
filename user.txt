@@ -3,3 +3,6 @@ welcome
 this is java
 spring 
 hibernate
+Angular
+Javascript
+
